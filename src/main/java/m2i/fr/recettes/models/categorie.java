@@ -1,6 +1,6 @@
 package m2i.fr.recettes.models;
 
-public class categorie {
+public class Categorie {
 
 	private String nom;
 }
